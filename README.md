@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Pillow</h1>
 
-<!--
-**PillowPowa/PillowPowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Amateur Programmer</h3>
+<p align="center">
+ <a href="https://www.youtube.com/channel/UCNrRkCTcOGKAvg45I-hX-3g"><img src="https://img.shields.io/badge/-Discord-yellow?style=flat&logo=Discord&logoColor=white"/></a>
+ <a href="https://tlgg.ru/BaggerFast"><img src="https://img.shields.io/badge/-Telegram-yellow?style=flat&logo=Telegram&logoColor=white" /></a>
+ <br>
+ <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-PillowPowa&color=orange" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=PillowPowa&theme=github_dark">
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PillowPowa&layout=compact&theme=github_dark">
+    </a>
+  </p>
+</div>
