@@ -2,8 +2,8 @@
 
 <h3 align="center">Amateur Programmer</h3>
 <p align="center">
- <a href="https://www.youtube.com/channel/UCNrRkCTcOGKAvg45I-hX-3g"><img src="https://img.shields.io/badge/-Discord-yellow?style=flat&logo=Discord&logoColor=white"/></a>
- <a href="https://tlgg.ru/BaggerFast"><img src="https://img.shields.io/badge/-Telegram-yellow?style=flat&logo=Telegram&logoColor=white" /></a>
+ <a href="https://discordapp.com/users/481472271014297621/"><img src="https://img.shields.io/badge/-Discord-yellow?style=flat&logo=Discord&logoColor=white"/></a>
+ <a href="https://t.me/pillowpowa"><img src="https://img.shields.io/badge/-Telegram-yellow?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-PillowPowa&color=orange" />
 </p>
